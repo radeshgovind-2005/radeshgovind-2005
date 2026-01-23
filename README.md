@@ -9,7 +9,7 @@
 
 ## Notable Projects
 
-- **[Chelas Poker Dice](https://github.com/isel-leic-daw/2025-daw-leic52d-2025-leic52d-11)** – Poker Dice Game in development.(The repo is in private, until the end of semmester, beacause it is a University project)
+- **[Chelas Poker Dice](https://github.com/radeshgovind-2005/Pdm-Chelas_Poker_Dice)** – Android Application (20/20 Marks Academic Project)
 
 ## Tech Stack
 
