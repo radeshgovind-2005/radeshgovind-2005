@@ -9,7 +9,8 @@
 
 ## 🎮 Notable Academic Projects
 
-### Chelas Poker Dice (Android / Kotlin)
+### Real-Time Multiplayer Android Game(Android / Kotlin)
+**[Link to Repository](https://github.com/radeshgovind-2005/Pdm-Chelas_Poker_Dice)** 
 * **Grade:** 20/20 Marks (Academic Distinction)
 * **Architecture:** Adhered strictly to **MVVM** and **Clean Architecture** principles to ensure a decoupled and testable codebase.
 * **Multiplayer Engine:** Developed a real-time multiplayer system with **Manual Dependency Injection** to manage complex state transitions without third-party bloat.
