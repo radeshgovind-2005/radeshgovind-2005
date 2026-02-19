@@ -9,22 +9,9 @@
 
 ## Notable Projects
 
-### - Real-Time Multiplayer Android Game(Android / Kotlin)
-**[Link to Repository](https://github.com/radeshgovind-2005/Pdm-Chelas_Poker_Dice)** 
-* **Grade:** 20/20 Marks (Academic Distinction)
-* **Architecture:** Adhered strictly to **MVVM** and **Clean Architecture** principles to ensure a decoupled and testable codebase.
-* **Multiplayer Engine:** Developed a real-time multiplayer system with **Manual Dependency Injection** to manage complex state transitions without third-party bloat.
-* **Core Skills:** Coroutines/Flow, State Management, Custom UI.
+#### [Real-Time Multiplayer Android Game](https://github.com/radeshgovind-2005/Pdm-Chelas_Poker_Dice)** 
 
-### - Serverless AI Interview Assistant (Cloudflare Edge)
-**[Link to Repository](https://github.com/radeshgovind-2005/cf_ai_interview_assistant)**
-
-I developed a stateful, edge-native AI agent utilizing the full Cloudflare ecosystem. This isn't just a chatbot; it's a distributed system.
-
-* **Serverless AI:** Leveraging `Workers AI` with the `Llama 3.3` model for real-time inference.
-* **State Coordination:** Implemented **Durable Objects** to guarantee strong consistency for chat history across global nodes.
-* **Edge Observability:** Utilized geographic telemetry to make the AI spatially aware of the user's connection point.
-* **Tech Stack:** TypeScript, Hono, Cloudflare Workers, SQLite-backed Durable Objects.
+#### [Serverless AI Interview Assistant](https://github.com/radeshgovind-2005/cf_ai_interview_assistant)**
 ---
 
 ## Tech Stack
