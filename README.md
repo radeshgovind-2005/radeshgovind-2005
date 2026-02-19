@@ -7,16 +7,16 @@
 📍 **Location:** Lisbon, Portugal
 
 
-## 🎮 Notable Academic Projects
+## Notable Projects
 
-### Real-Time Multiplayer Android Game(Android / Kotlin)
+### - Real-Time Multiplayer Android Game(Android / Kotlin)
 **[Link to Repository](https://github.com/radeshgovind-2005/Pdm-Chelas_Poker_Dice)** 
 * **Grade:** 20/20 Marks (Academic Distinction)
 * **Architecture:** Adhered strictly to **MVVM** and **Clean Architecture** principles to ensure a decoupled and testable codebase.
 * **Multiplayer Engine:** Developed a real-time multiplayer system with **Manual Dependency Injection** to manage complex state transitions without third-party bloat.
 * **Core Skills:** Coroutines/Flow, State Management, Custom UI.
----
-## 🚀 Featured Project: AI Interview Assistant (Cloudflare Edge)
+
+### - Serverless AI Interview Assistant (Cloudflare Edge)
 **[Link to Repository](https://github.com/radeshgovind-2005/cf_ai_interview_assistant)**
 
 I developed a stateful, edge-native AI agent utilizing the full Cloudflare ecosystem. This isn't just a chatbot; it's a distributed system.
