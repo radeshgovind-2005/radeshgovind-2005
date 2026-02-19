@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Radesh Govind
 
-**Software Engineer Student | Backend, Mobile, AI, Edge Computing & Distributed Systems Enthusiast**
+**Software Engineer Student | Backend, AI, Edge Computing & Distributed Systems Enthusiast**
 
 🎓 **BSc in Computer Science & Engineering** at Instituto Superior de Engenharia de Lisboa (ISEL)  
 🚀 **Expected Graduation:** July 2026  
