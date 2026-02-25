@@ -9,7 +9,8 @@
 ## Notable Projects
 
 #### [Real-Time Multiplayer Android Game](https://github.com/radeshgovind-2005/Pdm-Chelas_Poker_Dice)
-A real-time, state-driven multiplayer Android game built with Kotlin, Jetpack Compose, and Coroutines. *(Graded 20/20 for architectural excellence)*.
+A real-time, state-driven multiplayer Android game built with Kotlin, Jetpack Compose, and Coroutines. 
+*(Graded 20/20 for architectural excellence)*.
 
 #### [Serverless AI Interview Assistant](https://github.com/radeshgovind-2005/cf_ai_interview_assistant)
 An edge-native, globally distributed LLM assistant built with Cloudflare Workers AI and Durable Objects for strong state consistency.
