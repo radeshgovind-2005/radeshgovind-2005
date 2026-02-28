@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Radesh Govind
 
-**Software Engineer | Backend, AI, Edge Computing & Distributed Systems Enthusiast**
+**Software Engineer | Mobile, Backend, AI, Edge Computing & Distributed Systems Enthusiast**
 
 🎓 **BSc in Computer Science & Engineering** @ ISEL (Expected July 2026)
 📍 **Location:** Lisbon, Portugal
@@ -8,9 +8,11 @@
 
 ## Notable Projects
 
+#### [MultiplaIorm Adaptve Learning Application](https://github.com/radeshgovind-2005/play4change)
+A multiplatform Lerning Application with AI Agents and Vector Database to generate contextual contect. 
+
 #### [Real-Time Multiplayer Android Game](https://github.com/radeshgovind-2005/Pdm-Chelas_Poker_Dice)
 A real-time, state-driven multiplayer Android game built with Kotlin, Jetpack Compose, and Coroutines. 
-*(Graded 20/20 for architectural excellence)*.
 
 #### [Serverless AI Interview Assistant](https://github.com/radeshgovind-2005/cf_ai_interview_assistant)
 An edge-native, globally distributed LLM assistant built with Cloudflare Workers AI and Durable Objects for strong state consistency.
