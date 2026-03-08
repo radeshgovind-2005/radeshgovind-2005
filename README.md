@@ -8,7 +8,7 @@
 
 ## Notable Projects
 
-#### [MultiplaIorm Adaptve Learning Application](https://github.com/radeshgovind-2005/play4change)
+#### [Multiplatform Adaptve Learning Application](https://github.com/radeshgovind-2005/play4change)
 A multiplatform Lerning Application with AI Agents and Vector Database to generate contextual contect. 
 
 #### [Real-Time Multiplayer Android Game](https://github.com/radeshgovind-2005/Pdm-Chelas_Poker_Dice)
