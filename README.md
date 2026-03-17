@@ -8,8 +8,17 @@
 
 ## Notable Projects
 
-#### [Multiplatform Adaptive Learning Application](https://github.com/radeshgovind-2005/play4change)
-A multiplatform Lerning Application with AI Agents and Vector Database to generate contextual contect. 
+### [Multiplatform Adaptive Learning Application](https://github.com/radeshgovind-2005/play4change)
+**Status:**  Active Development @ U!REKA 
+* **The Goal:** Building an educational ecosystem that utilizes **AI Agents** to generate contextualized learning content.
+* **Architecture:** Implementing **RAG (Retrieval-Augmented Generation)** to ensure high-accuracy responses based on curated datasets.
+* **Systems Focus:** Optimizing cross-platform state management and minimizing latency in agent-to-user interactions.
+
+### [ISOLA Strategy Engine](https://github.com/radeshgovind-2005/isolation-board-game)
+**Status:** Active Development @ ISEL  | **Target Completion:** April 2026 
+* **The Challenge:** Implementing a complete logic engine for the strategy game **Isola**, where the goal is to isolate the opponent by removing board tiles.
+* **Logic & Search:** Developed in **Prolog** using the **Minimax** principle and **Alpha-Beta Pruning** for optimized decision-making.
+
 
 #### [Real-Time Multiplayer Android Game](https://github.com/radeshgovind-2005/Pdm-Chelas_Poker_Dice)
 A real-time, state-driven multiplayer Android game built with Kotlin, Jetpack Compose, and Coroutines. 
