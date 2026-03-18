@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Radesh Govind
 
-**Software Engineer | Mobile, Backend, AI, Edge Computing & Distributed Systems Enthusiast**
+**Software Engineer | Backend, Cloud & AI Enthusiast**
 
 🎓 **BSc in Computer Science & Engineering** @ ISEL (Expected July 2026)
 📍 **Location:** Lisbon, Portugal
