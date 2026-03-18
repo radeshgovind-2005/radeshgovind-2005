@@ -42,9 +42,3 @@ An edge-native, globally distributed LLM assistant built with Cloudflare Workers
 **Tools**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,androidstudio&perline=6" />
 
----
-
-## 🧠 Engineering Philosophy
-* **Clean Code:** I believe code should be written for humans to read and machines to execute.
-* **Systems Thinking:** I prioritize understanding the "Why" behind architecture—choosing between eventual vs. strong consistency or monolithic vs. serverless.
-* **Continuous Evolution:** Every project is an opportunity to be my own biggest critic and optimize for the next order of magnitude.
