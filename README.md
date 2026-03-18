@@ -21,11 +21,17 @@
 * **Logic & Search:** Developed in **Prolog** using the **Minimax** principle and **Alpha-Beta Pruning** for optimized decision-making.
 
 
-### [Real-Time Multiplayer Android Game](https://github.com/radeshgovind-2005/Pdm-Chelas_Poker_Dice)
-A real-time, state-driven multiplayer Android game built with Kotlin, Jetpack Compose, and Coroutines. 
+### [Real-Time Multiplayer Poker Dice](https://github.com/radeshgovind-2005/Pdm-Chelas_Poker_Dice)
+**Status:** Completed @ ISEL | **Achievement:** Awarded 20/20
+* **The Goal:** Building a real-time, state-driven multiplayer Android game featuring synchronized lobbies and dynamic match parameters.
+* **Architecture:** Implemented a modern **MVVM** architecture with **Unidirectional Data Flow (UDF)** using Kotlin, Jetpack Compose, and Coroutines.
+* **Networking:** Integrated a custom RESTful API via Ktor with robust debouncing to prevent race conditions during rapid gameplay.
 
 ### [Serverless AI Interview Assistant](https://github.com/radeshgovind-2005/cf_ai_interview_assistant)
-An edge-native, globally distributed LLM assistant built with Cloudflare Workers AI and Durable Objects for strong state consistency.
+**Status:** Deployed @ Cloudflare Workers | [Live Demo](https://cold-resonance-d00c.radesh-govind.workers.dev)
+* **The Goal:** Engineering an edge-native, stateful LLM assistant that acts as an interactive resume to dynamically answer recruiter questions.
+* **Architecture:** Leveraged Cloudflare Workers AI (Llama 3.3) and migrated state management to **Durable Objects** to guarantee strict serialization and strong consistency.
+* **Systems Focus:** Implemented geographic telemetry visualization (extracting edge TLS metadata) to prove real-time execution near the user.
 
 ---
 
