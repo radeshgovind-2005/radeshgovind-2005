@@ -3,6 +3,7 @@
 **Software Engineer | Backend, Cloud & AI Enthusiast**
 
 🎓 **BSc in Computer Science & Engineering** @ ISEL (Expected July 2026)
+
 📍 **Location:** Lisbon, Portugal
 
 
