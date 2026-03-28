@@ -1,51 +1,59 @@
-# 👋 Hi, I'm Radesh Govind
+# Radesh Govind
 
-**Software Engineer | Backend, Cloud & AI Enthusiast**
-
-🎓 **BSc in Computer Science & Engineering** @ ISEL (Expected July 2026)
-
-📍 **Location:** Lisbon, Portugal
-
-
-## Notable Projects
-
-### [Multiplatform Adaptive Learning Application](https://github.com/radeshgovind-2005/play4change)
-**Status:**  Active Development @ U!REKA 
-* **The Goal:** Building an educational ecosystem that utilizes **AI Agents** to generate contextualized learning content.
-* **Architecture:** Implementing **RAG (Retrieval-Augmented Generation)** to ensure high-accuracy responses based on curated datasets.
-* **Systems Focus:** Optimizing cross-platform state management and minimizing latency in agent-to-user interactions.
-
-### [ISOLA Strategy Engine](https://github.com/radeshgovind-2005/isolation-board-game)
-**Status:** Active Development @ ISEL  | **Target Completion:** April 2026 
-* **The Challenge:** Implementing a complete logic engine for the strategy game **Isola**, where the goal is to isolate the opponent by removing board tiles.
-* **Logic & Search:** Developed in **Prolog** using the **Minimax** principle and **Alpha-Beta Pruning** for optimized decision-making.
-
-
-### [Real-Time Multiplayer Poker Dice](https://github.com/radeshgovind-2005/Pdm-Chelas_Poker_Dice)
-**Status:** Completed @ ISEL | **Achievement:** Awarded 20/20
-* **The Goal:** Building a real-time, state-driven multiplayer Android game featuring synchronized lobbies and dynamic match parameters.
-* **Architecture:** Implemented a modern **MVVM** architecture with **Unidirectional Data Flow (UDF)** using Kotlin, Jetpack Compose, and Coroutines.
-* **Networking:** Integrated a custom RESTful API via Ktor with robust debouncing to prevent race conditions during rapid gameplay.
-
-### [Serverless AI Interview Assistant](https://github.com/radeshgovind-2005/cf_ai_interview_assistant)
-**Status:** Deployed @ Cloudflare Workers | [Live Demo](https://cold-resonance-d00c.radesh-govind.workers.dev)
-* **The Goal:** Engineering an edge-native, stateful LLM assistant that acts as an interactive resume to dynamically answer recruiter questions.
-* **Architecture:** Leveraged Cloudflare Workers AI (Llama 3.3) and migrated state management to **Durable Objects** to guarantee strict serialization and strong consistency.
-* **Systems Focus:** Implemented geographic telemetry visualization (extracting edge TLS metadata) to prove real-time execution near the user.
+**AI Software Engineer** — LLM Infrastructure, Backend Systems & Agentic AI  
+BSc Computer Science & Engineering @ ISEL, Lisbon · Expected July 2026
 
 ---
 
-## Tech Stack
+## Open Source Contributions
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,python,c&perline=6" />
+### [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers/pull/3732) — Anthropic
+**PR #3732** · `fix(schema): add missing property descriptions across official MCP servers`  
+Fixed missing `description` fields across 3 official MCP reference servers (filesystem, memory, everything) and resolved missing `required` arrays in 4 tools. Improvements affect how accurately LLMs call these tools across the entire MCP ecosystem.  
+`TypeScript` `Zod` `JSON Schema` `MCP`
 
-**Backend**  
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,nginx,postgres,mongodb,elasticsearch&perline=8" />
+### [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk/pull/891) — Anthropic · Spring AI
+**PR #891** · `docs: document best practice for handling argument errors in MCP tools`  
+Documented the recommended error-handling pattern for MCP tool implementations — clarifying when to use `CallToolResult` with `isError: true` vs throwing exceptions, with annotated code examples.  
+`Java` `MCP` `Documentation`
 
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,react,androidstudio&perline=6" />
+---
 
-**Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,androidstudio&perline=6" />
+## Projects
 
+### [LLM eBPF Guardian](https://github.com/radeshgovind-2005/llm-ebpf-guardian)
+eBPF-based security sidecar that intercepts syscalls from LLM-generated code at the kernel level — detecting intent-to-action mismatches in agentic AI processes.  
+`eBPF` `Linux Kernel` `Python` `Agentic AI Security`
+
+### [MCP Systems Controller](https://github.com/radeshgovind-2005/mcp-systems-controller)
+Secure MCP server for Docker/K8s orchestration with Human-in-the-Loop approval gates and Prometheus telemetry — built for agentic AI workflows.  
+`MCP` `Docker` `Kubernetes` `Prometheus` `TypeScript`
+
+### [Mech Interp MCP](https://github.com/radeshgovind-2005/mech-interp-mcp)
+MCP server exposing mechanistic interpretability tooling — activation patching and attention extraction for transformer models.  
+`Mechanistic Interpretability` `Python` `MCP` `Transformers`
+
+### [Multiplatform Adaptive Learning App](https://github.com/radeshgovind-2005/play4change)
+Educational ecosystem using AI Agents and RAG to generate contextualized learning content. Built @ U!REKA.  
+`RAG` `AI Agents` `Cross-Platform`
+
+### [Serverless AI Interview Assistant](https://github.com/radeshgovind-2005/cf_ai_interview_assistant) · [Live](https://cold-resonance-d00c.radesh-govind.workers.dev)
+Edge-native stateful LLM assistant deployed on Cloudflare Workers — uses Durable Objects for strict consistency and Llama 3.3 for inference.  
+`Cloudflare Workers` `Durable Objects` `LLM` `Edge AI`
+
+### [Real-Time Multiplayer Poker Dice](https://github.com/radeshgovind-2005/Pdm-Chelas_Poker_Dice)
+Real-time multiplayer Android game with synchronized lobbies. MVVM + UDF architecture. **Graded 20/20.**  
+`Kotlin` `Jetpack Compose` `Coroutines` `Ktor`
+
+### [ISOLA Strategy Engine](https://github.com/radeshgovind-2005/isolation-board-game)
+Complete logic engine for the Isola board game using Minimax + Alpha-Beta Pruning in Prolog.  
+`Prolog` `AI` `Game Theory`
+
+---
+
+## Languages & Tools
+
+`Kotlin` `Java` `TypeScript` `Python` `C`  
+`Spring Boot` `Node.js` `PostgreSQL` `MongoDB` `Elasticsearch`  
+`Docker` `Kubernetes` `Cloudflare Workers` `Linux` `eBPF`  
+`MCP` `LangChain` `RAG` `Agentic AI`
