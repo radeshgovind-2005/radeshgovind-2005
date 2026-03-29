@@ -37,10 +37,6 @@ MCP server exposing mechanistic interpretability tooling — activation patching
 Educational ecosystem using AI Agents and RAG to generate contextualized learning content. Built @ U!REKA.  
 `RAG` `AI Agents` `Cross-Platform`
 
-### [Serverless AI Interview Assistant](https://github.com/radeshgovind-2005/cf_ai_interview_assistant) · [Live](https://cold-resonance-d00c.radesh-govind.workers.dev)
-Edge-native stateful LLM assistant deployed on Cloudflare Workers — uses Durable Objects for strict consistency and Llama 3.3 for inference.  
-`Cloudflare Workers` `Durable Objects` `LLM` `Edge AI`
-
 ### [Real-Time Multiplayer Poker Dice](https://github.com/radeshgovind-2005/Pdm-Chelas_Poker_Dice)
 Real-time multiplayer Android game with synchronized lobbies. MVVM + UDF architecture. **Graded 20/20.**  
 `Kotlin` `Jetpack Compose` `Coroutines` `Ktor`
