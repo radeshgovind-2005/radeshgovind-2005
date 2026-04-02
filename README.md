@@ -1,55 +1,87 @@
-# Radesh Govind
+```
+██████╗  █████╗ ██████╗ ███████╗███████╗██╗  ██╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██║  ██║
+██████╔╝███████║██║  ██║█████╗  ███████╗███████║
+██╔══██╗██╔══██║██║  ██║██╔══╝  ╚════██║██╔══██║
+██║  ██║██║  ██║██████╔╝███████╗███████║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-**AI Software Engineer** — LLM Infrastructure, Backend Systems & Agentic AI  
-BSc Computer Science & Engineering @ ISEL, Lisbon · Expected July 2026
+
+```bash
+$ whoami
+radesh govind — lisbon, portugal
+
+$ cat status.txt
+final year BSc @ ISEL (july 2026)
+looking for: internship / junior / new grad role
+obsession: backend systems + agentic AI (MCP)
+```
+
+---
+ 
+### `~/what-i-do`
+ 
+I work mostly on the backend. I like understanding how things actually work under the hood — distributed systems, how AI agents interact with the systems around them.
+ 
+Right now I'm deep in the MCP (Model Context Protocol) ecosystem and building my final year project. Still learning.
+ 
+---
+
+### `~/open-source`
+
+> small contributions, but they got me reading real codebases
+
+**[modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk)** — Anthropic · Spring AI  
+`PR #891` ✅ merged  
+Documented the correct error-handling pattern for MCP tools.  
+
+**[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** — Anthropic  
+`PR #3732` 🔄 under review  
+Fixed missing fields and `required` arrays across official MCP reference servers.
 
 ---
 
-## Open Source Contributions
+### `~/currently-building`
 
-### [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers/pull/3732) — Anthropic
-**PR #3732** · `fix(schema): add missing property descriptions across official MCP servers`  
-Fixed missing `description` fields across 3 official MCP reference servers (filesystem, memory, everything) and resolved missing `required` arrays in 4 tools. Improvements affect how accurately LLMs call these tools across the entire MCP ecosystem.  
-`TypeScript` `Zod` `JSON Schema` `MCP`
+> ongoing work — no metrics yet, things are still being built
 
-### [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk/pull/891) — Anthropic · Spring AI
-**PR #891** · `docs: document best practice for handling argument errors in MCP tools`  
-Documented the recommended error-handling pattern for MCP tool implementations — clarifying when to use `CallToolResult` with `isError: true` vs throwing exceptions, with annotated code examples.  
-`Java` `MCP` `Documentation`
+**[Play4Change](https://github.com/radeshgovind-2005/play4change)** — final year project `[active development]`  
+Adaptive learning platform using RAG + AI agents.  
+Stack: `Spring Boot` `pgvector` `PostgreSQL` `Prometheus`
 
----
+**[Guardian](https://github.com/radeshgovind-2005/llm-ebpf-guardian)** — kernel sandbox PoC `[early stage]`  
+Exploring eBPF + Linux kernel internals by building a syscall interceptor for AI agent processes.   
+Stack: `Python` `Linux kernel`
 
-## Projects
+**[MCP Systems Controller](https://github.com/radeshgovind-2005/mcp-systems-controller)**  
+Secure MCP server exposing Docker/K8s operations with a human-in-the-loop approval gate.  
+Stack: `MCP` `Docker` `Kubernetes` `TypeScript` `Prometheus`
 
-### [LLM eBPF Guardian](https://github.com/radeshgovind-2005/llm-ebpf-guardian)
-eBPF-based security sidecar that intercepts syscalls from LLM-generated code at the kernel level — detecting intent-to-action mismatches in agentic AI processes.  
-`eBPF` `Linux Kernel` `Python` `Agentic AI Security`
+**[Real-Time Multiplayer Poker Dice](https://github.com/radeshgovind-2005/Pdm-Chelas_Poker_Dice)** 
 
-### [MCP Systems Controller](https://github.com/radeshgovind-2005/mcp-systems-controller)
-Secure MCP server for Docker/K8s orchestration with Human-in-the-Loop approval gates and Prometheus telemetry — built for agentic AI workflows.  
-`MCP` `Docker` `Kubernetes` `Prometheus` `TypeScript`
-
-### [Mech Interp MCP](https://github.com/radeshgovind-2005/mech-interp-mcp)
-MCP server exposing mechanistic interpretability tooling — activation patching and attention extraction for transformer models.  
-`Mechanistic Interpretability` `Python` `MCP` `Transformers`
-
-### [Multiplatform Adaptive Learning App](https://github.com/radeshgovind-2005/play4change)
-Educational ecosystem using AI Agents and RAG to generate contextualized learning content. Built @ U!REKA.  
-`RAG` `AI Agents` `Cross-Platform`
-
-### [Real-Time Multiplayer Poker Dice](https://github.com/radeshgovind-2005/Pdm-Chelas_Poker_Dice)
-Real-time multiplayer Android game with synchronized lobbies. MVVM + UDF architecture. **Graded 20/20.**  
-`Kotlin` `Jetpack Compose` `Coroutines` `Ktor`
-
-### [ISOLA Strategy Engine](https://github.com/radeshgovind-2005/isolation-board-game)
-Complete logic engine for the Isola board game using Minimax + Alpha-Beta Pruning in Prolog.  
-`Prolog` `AI` `Game Theory`
+Android game with real-time synchronized lobbies.  
+Stack: `Kotlin` `Jetpack Compose` `Coroutines` `Ktor`
 
 ---
 
-## Languages & Tools
+### `~/stack`
 
-`Kotlin` `Java` `TypeScript` `Python` `C`  
-`Spring Boot` `Node.js` `PostgreSQL` `MongoDB` `Elasticsearch`  
-`Docker` `Kubernetes` `Cloudflare Workers` `Linux` `eBPF`  
-`MCP` `LangChain` `RAG` `Agentic AI`
+```
+languages   →  kotlin  java  python  typescript  c
+backend     →  spring boot  node.js  restful apis
+database    →  postgresql  pgvector  mongodb
+infra       →  docker  kubernetes  prometheus  grafana
+ai/ml       →  mcp  langchain  rag  llm apis
+```
+
+---
+
+### `~/find-me`
+
+```
+email    → radesh.govind@gmail.com
+linkedin → linkedin.com/in/radesh-govind
+location → lisbon, pt
+open to  → internship / junior / new grad (2026)
+```
