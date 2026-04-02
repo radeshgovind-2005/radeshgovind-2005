@@ -13,7 +13,7 @@ $ whoami
 radesh govind — lisbon, portugal
 
 $ cat status.txt
-final year BSc @ ISEL (july 2026)
+final year BSc @ ISEL (june 2026)
 looking for: internship / junior / new grad role
 obsession: backend systems + agentic AI (MCP)
 ```
