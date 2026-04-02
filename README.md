@@ -24,7 +24,7 @@ obsession: backend systems + agentic AI (MCP)
  
 I work mostly on the backend. I like understanding how things actually work under the hood — distributed systems, how AI agents interact with the systems around them.
  
-Right now I'm deep in the MCP (Model Context Protocol) ecosystem and building my final year project. Still learning.
+Right now I'm deep in the MCP (Model Context Protocol) ecosystem and building my final year project.
  
 ---
 
