@@ -20,7 +20,7 @@ obsession: backend systems + agentic AI (MCP)
 
 ---
  
-### `~/what-i-do`
+### `~/about-me`
  
 I work mostly on the backend. I like understanding how things actually work under the hood — distributed systems, how AI agents interact with the systems around them.
  
@@ -28,7 +28,7 @@ Right now I'm deep in the MCP (Model Context Protocol) ecosystem and building my
  
 ---
 
-### `~/open-source`
+### `~/open-source-contributions`
 
 > small contributions, but they got me reading real codebases
 
@@ -42,7 +42,7 @@ Fixed missing fields and `required` arrays across official MCP reference servers
 
 ---
 
-### `~/currently-building`
+### `~/projects`
 
 > ongoing work — no metrics yet, things are still being built
 
@@ -73,15 +73,4 @@ backend     →  spring boot  node.js  restful apis
 database    →  postgresql  pgvector  mongodb
 infra       →  docker  kubernetes  prometheus  grafana
 ai/ml       →  mcp  langchain  rag  llm apis
-```
-
----
-
-### `~/find-me`
-
-```
-email    → radesh.govind@gmail.com
-linkedin → linkedin.com/in/radesh-govind
-location → lisbon, pt
-open to  → internship / junior / new grad (2026)
 ```
