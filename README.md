@@ -35,7 +35,7 @@ Fixed missing fields and malformed `required` arrays across 4 official MCP refer
 <tr>
 <td width="50%" valign="top">
 
-### [Guardian](https://github.com/radeshgovind-2005/llm-ebpf-guardian) &nbsp;<sub>active · kernel</sub>
+### [Guardian](https://github.com/Viriato-Security/guardian) &nbsp;<sub>active · kernel</sub>
 
 eBPF syscall interceptor for AI processes. Attaches probes to Linux kernel tracepoints to capture every file read, network write, and privilege escalation — nanosecond timestamps, cryptographic event chaining, zero code changes to the monitored model. EU AI Act compliance layer (Art. 12, 13, 15, 17).
 
