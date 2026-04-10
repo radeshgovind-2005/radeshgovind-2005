@@ -9,7 +9,7 @@
 </h1>
 
 <p>
-  <strong>Software engineer</strong> &nbsp;·&nbsp; Lisbon, Portugal &nbsp;·&nbsp; Jun 2026<br>
+  <strong>Software engineer</strong> &nbsp;·&nbsp; Lisbon, Portugal<br>
   <sub>BSc Computer Science & Engineering · ISEL · final year &nbsp;·&nbsp; Jun 2026 · full-time / new grad </sub>
 </p>
 
