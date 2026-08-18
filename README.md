@@ -9,8 +9,7 @@
 </h1>
 
 <p>
-  <strong>Software engineer</strong> &nbsp;·&nbsp; Lisbon, Portugal<br>
-  <sub>BSc Computer Science & Engineering · ISEL · final year &nbsp;·&nbsp; Jun 2026 · full-time / new grad </sub>
+  <strong>Security Engineer Intern at Cloudflare</strong> &nbsp;·&nbsp; Lisbon, Portugal<br>
 </p>
 
 ---
@@ -75,27 +74,6 @@ Spring Boot SSE for live state broadcasting. Kotlin Coroutines/Flows under concu
 </table>
 
 ---
-
-## Stack
-
-<table>
-  <tr><td><sub>languages</sub></td><td>Kotlin &nbsp;·&nbsp; Java &nbsp;·&nbsp; Python &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; C</td></tr>
-  <tr><td><sub>backend</sub></td><td>Spring Boot &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; REST &nbsp;·&nbsp; DDD &nbsp;·&nbsp; Hexagonal Architecture</td></tr>
-  <tr><td><sub>observability</sub></td><td>Prometheus &nbsp;·&nbsp; Grafana &nbsp;·&nbsp; Micrometer &nbsp;·&nbsp; eBPF</td></tr>
-  <tr><td><sub>infra</sub></td><td>Docker &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; Nginx</td></tr>
-  <tr><td><sub>data</sub></td><td>PostgreSQL &nbsp;·&nbsp; pgvector &nbsp;·&nbsp; MongoDB</td></tr>
-  <tr><td><sub>AI / agents</sub></td><td>MCP &nbsp;·&nbsp; RAG &nbsp;·&nbsp; LangChain4j &nbsp;·&nbsp; LLM APIs</td></tr>
-</table>
-
----
-
-*I care about what happens under the hood — kernel boundaries, failure modes, how things behave at scale. Right now that means building a kernel-level AI observability agent with eBPF and shipping a production-instrumented multiplatform platform as my final year project. I contribute to Anthropic's MCP ecosystem because I think that's where the most interesting agentic systems are being designed correctly.*
-
----
-
 <sub>
-  <a href="https://github.com/radeshgovind-2005">github.com/radeshgovind-2005</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/radesh-govind">linkedin.com/in/radesh-govind</a> &nbsp;·&nbsp;
-  radesh.govind@gmail.com &nbsp;·&nbsp;
-  Lisbon, Portugal
+  <a href="https://radesh-govind.com/">m Y   w E b S i T e</a> &nbsp;·&nbsp;
 </sub>
