@@ -25,8 +25,9 @@ BSc Computer Science & Engineering @ ISEL
 
 ```
 
-I like building things at the intersection of **security, systems, and AI** —
-from serverless vulnerability-triage pipelines to kernel-level sandboxes for
+I like building things at the intersection of **security, systems, and AI**.
+
+From serverless vulnerability-triage pipelines to kernel-level sandboxes for
 LLM-generated code.
 
 ---
