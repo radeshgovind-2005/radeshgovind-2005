@@ -56,17 +56,13 @@ unauthorized behavior — a real security boundary independent of the LLM's own 
 
 ```text
 Languages     Python · Go · TypeScript · C
-Security      Zinc · Qualys · Brinqa · Jira · osquery
-Infra/DevOps  Terraform · HashiCorp Vault · GitHub · GitLab · Atlantis
+Security      Zinc · Qualys · Brinqa
+Infra/DevOps  Terraform · GitHub · GitLab · Atlantis
 Data          PostgreSQL · Cloudflare D1 · Cloudflare R2
 AI/Agentic    Agentic workflows · Context engineering · MCP design
 ```
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radeshgovind-2005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radeshgovind-2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
 
 <p align="center"><i>🔒 Building safer systems, one automation at a time.</i></p>
