@@ -1,21 +1,72 @@
-<!--  ╔══════════════════════════════════════════════╗  -->
-<!--  ║   radeshgovind-2005/radeshgovind-2005        ║  -->
-<!--  ║   paste into your profile repo's README.md  ║  -->
-<!--  ╚══════════════════════════════════════════════╝  -->
+```
+ ____           _           _       ____                 _           _
+|  _ \ __ _  __| | ___  ___| |__   / ___| _____   ___ __ (_)_ __   __| |
+| |_) / _` |/ _` |/ _ \/ __| '_ \ | |  _ / _ \ \ / / '_ \| | '_ \ / _` |
+|  _ < (_| | (_| |  __/\__ \ | | || |_| | (_) \ V /| | | | | | | | (_| |
+|_| \_\__,_|\__,_|\___||___/_| |_| \____|\___/ \_/ |_| |_|_|_| |_|\__,_|
+```
 
-<h1>
-  Radesh
-  <em>Govind</em>
-</h1>
+<h3 align="center">Security Engineer</h3>
 
-<p>
-  <strong>Security Engineer Intern at Cloudflare</strong> &nbsp;·&nbsp; Lisbon, Portugal<br>
+<p align="center">
+  📍 Lisbon, Portugal &nbsp;|&nbsp;
+  🌐 <a href="https://radesh-govind.com/">radesh-govind.com</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/radesh-govind">LinkedIn</a>
 </p>
 
 ---
-<img width="1376" height="768" alt="Gemini_Generated_Image_" src="https://github.com/user-attachments/assets/dab068ea-910b-498e-85f1-fe218433b3b4" />
+
+### 👋 About me
+
+```text
+> whoami
+Security Engineer Intern @ Cloudflare (Vulnerability Management)
+MSc Computer Science & Engineering @ NOVA FCT
+BSc Computer Science & Engineering @ ISEL
+
+```
+
+I like building things at the intersection of **security, systems, and AI** —
+from serverless vulnerability-triage pipelines to kernel-level sandboxes for
+LLM-generated code.
 
 ---
-<sub>
-  <a href="https://radesh-govind.com/">WEBSITE</a> &nbsp;·&nbsp;
-</sub>
+
+### 💼 Experience
+
+**Cloudflare — Security Engineer Intern** · Vulnerability Management Team · Summer 2026
+- Built automation for triage & assessment of actively exploited vulnerabilities across the VM lifecycle
+
+---
+
+### 🚀 Featured Projects
+
+**[AI LearnLoop](https://rfc.radesh-govind.com/004-adaptive-learn/) — Adaptive Tutoring Platform**
+Graph-based curriculum modeling + pgvector RAG pipeline that clusters student
+misconceptions and generates targeted exercises only for genuinely novel gaps.
+
+**[llm-ebpf-guardian](https://rfc.radesh-govind.com/006-llm-ebpf-guardian/) — Kernel-Level Sandboxing for LLM Code**
+eBPF syscall interceptor that watches AI agent processes at runtime and blocks
+unauthorized behavior — a real security boundary independent of the LLM's own guardrails.
+
+
+---
+
+### 🛠️ Tech Stack
+
+```text
+Languages     Python · Go · TypeScript · C
+Security      Zinc · Qualys · Brinqa · Jira · osquery
+Infra/DevOps  Terraform · HashiCorp Vault · GitHub · GitLab · Atlantis
+Data          PostgreSQL · Cloudflare D1 · Cloudflare R2
+AI/Agentic    Agentic workflows · Context engineering · MCP design
+```
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=radeshgovind-2005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radeshgovind-2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center"><i>🔒 Building safer systems, one automation at a time.</i></p>
