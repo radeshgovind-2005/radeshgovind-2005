@@ -9,7 +9,6 @@
 <h3 align="center">Security Engineer</h3>
 
 <p align="center">
-  📍 Lisbon, Portugal &nbsp;|&nbsp;
   🌐 <a href="https://radesh-govind.com/">radesh-govind.com</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/radesh-govind">LinkedIn</a>
 </p>
