@@ -25,43 +25,32 @@ BSc Computer Science & Engineering @ ISEL
 
 ```
 
-I like building things at the intersection of **security, systems, and AI**.
-
-From serverless vulnerability-triage pipelines to kernel-level sandboxes for
-LLM-generated code.
-
 ---
 
 ### 💼 Experience
 
 **Cloudflare — Security Engineer Intern** · Vulnerability Management Team · Summer 2026
-- Built automation for triage & assessment of actively exploited vulnerabilities across the VM lifecycle
 
 ---
 
 ### 🚀 Featured Projects
 
-**[AI LearnLoop](https://rfc.radesh-govind.com/004-adaptive-learn/) — Adaptive Tutoring Platform**
+**Adaptive Tutoring Platform**
+```
 Graph-based curriculum modeling + pgvector RAG pipeline that clusters student
 misconceptions and generates targeted exercises only for genuinely novel gaps.
-
-**[llm-ebpf-guardian](https://rfc.radesh-govind.com/006-llm-ebpf-guardian/) — Kernel-Level Sandboxing for LLM Code**
+```
+**Kernel-Level Sandboxing for LLM Code**
+```
 eBPF syscall interceptor that watches AI agent processes at runtime and blocks
 unauthorized behavior — a real security boundary independent of the LLM's own guardrails.
-
-
----
-
-### 🛠️ Tech Stack
-
-```text
-Languages     Python · Go · TypeScript · C
-Security      Zinc · Qualys · Brinqa
-Infra/DevOps  Terraform · GitHub · GitLab · Atlantis
-Data          PostgreSQL · Cloudflare D1 · Cloudflare R2
-AI/Agentic    Agentic workflows · Context engineering · MCP design
 ```
 
+**Network Behavioral Detection Engine**
+```
+A Zeek-based network behavioral detection pipeline: 5 detectors, MITRE ATT&CK 
+technique mapping, and an AI triage agent grounded in real tool calls
+```
 ---
 
 
